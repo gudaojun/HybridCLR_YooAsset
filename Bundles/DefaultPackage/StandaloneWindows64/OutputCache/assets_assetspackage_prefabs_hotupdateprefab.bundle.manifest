@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 651072181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 672f99deb8c83b0d12c6c83e417b5ecf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36517bb9bb57a5e1372437774cb1a4e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e25d6ed3a77268d4db84bdf9758d64c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/Prefabs/HotUpdatePrefab.prefab
+Dependencies: []
